@@ -7,7 +7,6 @@ import re
 import json
 import xml.etree.ElementTree as ET
 
-
 # Mapping Tableau mark classes to Power BI visual types
 MARK_CLASS_TO_VISUAL_TYPE = {
     "Line": "lineChart",
